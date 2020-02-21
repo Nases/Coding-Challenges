@@ -1,2 +1,2 @@
-# Interview Prep
+# Coding Challenges
 
