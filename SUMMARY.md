@@ -5,5 +5,5 @@
 * [Create Phone Number](2.md)
 * [Duplicate Encoder](3.md)
 * [Dubstep](4.md)
-* [5](5.md)
+* [Largest 5 digit number in a series](5.md)
 
